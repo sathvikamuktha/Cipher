@@ -10,7 +10,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-
 from cryptography.hazmat.primitives.asymmetric import rsa
 from cryptography.hazmat.primitives import serialization
 
