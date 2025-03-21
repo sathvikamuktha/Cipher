@@ -21,8 +21,7 @@ cd Cipher
 ```
 2. Install dependencies:
 ```
-pip install streamlit
-pip install cryptography
+pip install streamlit cryptography
 ```
 3. Run the Streamlit app:
 ```
