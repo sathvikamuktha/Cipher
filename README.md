@@ -2,6 +2,7 @@
 **Cipher Hub** is a web-based cryptography tool that allows users to encrypt and decrypt messages using popular algorithms like Caesar Cipher, Vigenère Cipher and RSA. Built in just **8 hours** during **Axe Hacks 2025**, this project won the **"Most Technical Hack"** award! 🎉
 
 [Are you wondering what **Cipher** means? "Cipher is a secret or disguised way of writing a code."]
+
 **Encryption key:** secret code used to encrypt and decrypt data
 **Caesar Cipher:** A simple encryption method where each letter in the plaintext is shifted a certain number of positions in the alphabet. The number of positions is the key.
 **RSA:** A widely used asymmetric encryption algorithm.
