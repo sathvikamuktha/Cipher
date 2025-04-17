@@ -1,6 +1,6 @@
 # 🔐 Cipher Hub - Encryption & Decryption App
 
-**Cipher Hub** is a web-based cryptography tool that allows users to encrypt and decrypt messages using popular algorithms like Caesar Cipher, Vigenère Cipher and RSA. Built in just **8 hours** during **Axe Hacks 2025**, this project won the **"Most Technical Hack"** award! 🎉
+**Cipher Hub** is a web-based cryptography tool that allows users to encrypt and decrypt messages using popular algorithms like Caesar Cipher, Vigenère Cipher and RSA. Built in just **8 hours** during **Axe Hacks 2025** by our group, this project won the **"Most Technical Hack"** award! 🎉
 
 > Are you wondering what **Cipher** means? "Cipher is a secret or disguised way of writing a code."
 
